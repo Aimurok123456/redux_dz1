@@ -1,0 +1,25 @@
+.item{
+  width: 4500px;
+  height: 2000px;
+  border: 1px solid #e358ff;
+  color: #d20bf9;
+}
+
+.dark {
+  background: #d20bf9;
+  color: #9cffa7;
+}
+
+.light {
+  color: #d20bf9;
+  background: #9cffa7;
+}
+
+button-dark{
+  border: 1px solid #9cffa7;
+}
+
+button-light {
+  color: #d20bf9;
+  border: 1px solid #d20bf9;
+}
